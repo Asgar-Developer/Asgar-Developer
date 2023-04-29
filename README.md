@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asgar-Developer
-- 👀 I’m interested in website development. I have good exposure of Html5, css3, Javascript, REactJs,Redux, API
+- 👀 I’m interested in website development. I have good exposure of Html5, css3, Javascript, ReactJs,Redux, API
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
